@@ -1,0 +1,13 @@
+.menu-btn {
+    display: none;
+}
+
+@media (Max-width: 678px) {
+    nav {
+        display: none;
+    }
+
+    .menu-btn {
+    display: block;
+}
+}
